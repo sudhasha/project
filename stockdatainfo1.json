@@ -1,0 +1,5 @@
+{
+  "stock_tickers": ["IVV","IJH"],
+  "features_list": ["Open","High","Low","Close","Adj Close","Volume"],
+  "update_csv" : "False"
+}
