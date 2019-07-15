@@ -1,0 +1,4 @@
+{
+  "stock_tickers": ["AMD","GOOGL","JPM","AMZN","NFLX","MSFT","AAPL","SLB","KO","GS"],
+  "features_list": ["High","Low","Open","Adj Close","Close","Volume"]
+}

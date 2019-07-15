@@ -1,0 +1,4 @@
+{
+  "stock_tickers": ["JPM"],
+  "features_list": ["High","Low","Open","Adj Close","Close","Volume"]
+}
